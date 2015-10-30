@@ -1,0 +1,54 @@
+.lead{
+	font-family: "Raleway", sans-serif;
+	font-size: 30px;
+	padding-top: 200px;
+	padding-left: 20px;
+}
+.container{
+	min-width: 100%;
+	display: inline;
+}
+.app-container{
+	background: url(images/londonstreet.png);
+	background-size: cover;
+	margin: auto;
+	color: #FFFFFF;
+}
+.featureette-heading {
+	text-align: center;
+	font-size: 50px;
+	font-family: "Raleway", sans-serif;
+}
+form{
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+input{
+	margin-bottom: 30px;
+	max-width: 100%;
+}
+
+.email-container{
+	background: #EBDDE2;
+}
+
+form { 
+	margin: 0 auto; 
+	width: 250px;
+}
+.footercontainer{
+	text-align: center;
+	background-color: #2C3539;
+	color: #FFFFFF;
+	padding-bottom: 60px;
+	font-family: 'raleway', sans-serif;
+}
+h2{
+	font-size: 40px;
+
+}
+.highlight {
+    color: #737CA1;
+    font-weight: bold;
+}
